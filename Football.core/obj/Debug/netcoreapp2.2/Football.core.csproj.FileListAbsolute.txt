@@ -1,0 +1,12 @@
+C:\Temp\Football\Football.core\bin\Debug\netcoreapp2.2\Football.core.deps.json
+C:\Temp\Football\Football.core\bin\Debug\netcoreapp2.2\Football.core.dll
+C:\Temp\Football\Football.core\bin\Debug\netcoreapp2.2\Football.core.pdb
+C:\Temp\Football\Football.core\bin\Debug\netcoreapp2.2\Football.Data.dll
+C:\Temp\Football\Football.core\bin\Debug\netcoreapp2.2\Football.Data.pdb
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.csprojAssemblyReference.cache
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.csproj.CoreCompileInputs.cache
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.AssemblyInfoInputs.cache
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.AssemblyInfo.cs
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.csproj.CopyComplete
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.dll
+C:\Temp\Football\Football.core\obj\Debug\netcoreapp2.2\Football.core.pdb

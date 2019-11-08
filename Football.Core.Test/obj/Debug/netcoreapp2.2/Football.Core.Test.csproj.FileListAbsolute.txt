@@ -1,0 +1,14 @@
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Football.Core.Test.deps.json
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Football.Core.Test.runtimeconfig.json
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Football.Core.Test.runtimeconfig.dev.json
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Football.Core.Test.dll
+C:\Temp\Football\Football.Core.Test\bin\Debug\netcoreapp2.2\Football.Core.Test.pdb
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.csprojAssemblyReference.cache
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.csproj.CoreCompileInputs.cache
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.AssemblyInfoInputs.cache
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.AssemblyInfo.cs
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.dll
+C:\Temp\Football\Football.Core.Test\obj\Debug\netcoreapp2.2\Football.Core.Test.pdb

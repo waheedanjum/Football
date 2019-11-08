@@ -1,0 +1,9 @@
+C:\Temp\Football\Football.Data\bin\Debug\netstandard2.0\Football.Data.deps.json
+C:\Temp\Football\Football.Data\bin\Debug\netstandard2.0\Football.Data.dll
+C:\Temp\Football\Football.Data\bin\Debug\netstandard2.0\Football.Data.pdb
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.csproj.CoreCompileInputs.cache
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.AssemblyInfoInputs.cache
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.AssemblyInfo.cs
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.dll
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.pdb
+C:\Temp\Football\Football.Data\obj\Debug\netstandard2.0\Football.Data.csprojAssemblyReference.cache
